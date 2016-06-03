@@ -1,0 +1,15 @@
+{  
+   "i18n":{  
+      "site":{  
+         "page":{  
+            "title":"CloudFlare"
+         }
+      },
+      "homepage":{  
+         "welcome":{  
+            "content":"Welcome to CloudFlares marketing site!",
+            "intro":"W.I.P"
+         }
+      }
+   }
+}
